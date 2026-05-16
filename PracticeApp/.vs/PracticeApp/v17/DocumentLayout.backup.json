@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharp\\PracticeApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13C56696-EE97-4E8F-94A2-07581838B455}|PracticeApp.csproj|d:\\csharp\\practiceapp\\stringpractice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C56696-EE97-4E8F-94A2-07581838B455}|PracticeApp.csproj|solutionrelative:stringpractice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C56696-EE97-4E8F-94A2-07581838B455}|PracticeApp.csproj|d:\\csharp\\practiceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C56696-EE97-4E8F-94A2-07581838B455}|PracticeApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StringPractice.cs",
+              "DocumentMoniker": "D:\\CSharp\\PracticeApp\\StringPractice.cs",
+              "RelativeDocumentMoniker": "StringPractice.cs",
+              "ToolTip": "D:\\CSharp\\PracticeApp\\StringPractice.cs",
+              "RelativeToolTip": "StringPractice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T06:44:45.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharp\\PracticeApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CSharp\\PracticeApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T09:46:06.66Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

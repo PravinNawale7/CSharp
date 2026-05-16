@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharp\\InheritanceDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75D637B8-5DF2-495D-A132-3E63FCF4EA57}|InheritanceDemo.csproj|d:\\csharp\\inheritancedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75D637B8-5DF2-495D-A132-3E63FCF4EA57}|InheritanceDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75D637B8-5DF2-495D-A132-3E63FCF4EA57}|InheritanceDemo.csproj|d:\\csharp\\inheritancedemo\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75D637B8-5DF2-495D-A132-3E63FCF4EA57}|InheritanceDemo.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75D637B8-5DF2-495D-A132-3E63FCF4EA57}|InheritanceDemo.csproj|d:\\csharp\\inheritancedemo\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75D637B8-5DF2-495D-A132-3E63FCF4EA57}|InheritanceDemo.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75D637B8-5DF2-495D-A132-3E63FCF4EA57}|InheritanceDemo.csproj|d:\\csharp\\inheritancedemo\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75D637B8-5DF2-495D-A132-3E63FCF4EA57}|InheritanceDemo.csproj|solutionrelative:currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75D637B8-5DF2-495D-A132-3E63FCF4EA57}|InheritanceDemo.csproj|d:\\csharp\\inheritancedemo\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75D637B8-5DF2-495D-A132-3E63FCF4EA57}|InheritanceDemo.csproj|solutionrelative:account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75D637B8-5DF2-495D-A132-3E63FCF4EA57}|InheritanceDemo.csproj|d:\\csharp\\inheritancedemo\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75D637B8-5DF2-495D-A132-3E63FCF4EA57}|InheritanceDemo.csproj|solutionrelative:savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75D637B8-5DF2-495D-A132-3E63FCF4EA57}|InheritanceDemo.csproj|d:\\csharp\\inheritancedemo\\inheritancedemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{75D637B8-5DF2-495D-A132-3E63FCF4EA57}|InheritanceDemo.csproj|solutionrelative:inheritancedemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CurrentAccount.cs",
+              "DocumentMoniker": "D:\\CSharp\\InheritanceDemo\\CurrentAccount.cs",
+              "RelativeDocumentMoniker": "CurrentAccount.cs",
+              "ToolTip": "D:\\CSharp\\InheritanceDemo\\CurrentAccount.cs",
+              "RelativeToolTip": "CurrentAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T05:56:31.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SavingAccount.cs",
+              "DocumentMoniker": "D:\\CSharp\\InheritanceDemo\\SavingAccount.cs",
+              "RelativeDocumentMoniker": "SavingAccount.cs",
+              "ToolTip": "D:\\CSharp\\InheritanceDemo\\SavingAccount.cs",
+              "RelativeToolTip": "SavingAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T05:56:11.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\CSharp\\InheritanceDemo\\Account.cs",
+              "RelativeDocumentMoniker": "Account.cs",
+              "ToolTip": "D:\\CSharp\\InheritanceDemo\\Account.cs",
+              "RelativeToolTip": "Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T05:55:56.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InheritanceDemo.csproj",
+              "DocumentMoniker": "D:\\CSharp\\InheritanceDemo\\InheritanceDemo.csproj",
+              "RelativeDocumentMoniker": "InheritanceDemo.csproj",
+              "ToolTip": "D:\\CSharp\\InheritanceDemo\\InheritanceDemo.csproj",
+              "RelativeToolTip": "InheritanceDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-27T05:51:10.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\CSharp\\InheritanceDemo\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "D:\\CSharp\\InheritanceDemo\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T05:45:17.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\CSharp\\InheritanceDemo\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "D:\\CSharp\\InheritanceDemo\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T05:44:47.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharp\\InheritanceDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CSharp\\InheritanceDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T05:43:29.755Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\CSharp\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.exe
+D:\CSharp\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.deps.json
+D:\CSharp\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.runtimeconfig.json
+D:\CSharp\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.dll
+D:\CSharp\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.pdb
+D:\CSharp\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.AssemblyInfoInputs.cache
+D:\CSharp\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.AssemblyInfo.cs
+D:\CSharp\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.csproj.CoreCompileInputs.cache
+D:\CSharp\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.dll
+D:\CSharp\InheritanceDemo\obj\Debug\net8.0\refint\InheritanceDemo.dll
+D:\CSharp\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.pdb
+D:\CSharp\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.genruntimeconfig.cache
+D:\CSharp\InheritanceDemo\obj\Debug\net8.0\ref\InheritanceDemo.dll

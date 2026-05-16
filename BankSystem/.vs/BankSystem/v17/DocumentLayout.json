@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharp\\BankSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0D7FEB-F31A-4F72-B943-EC4AA153D8F2}|BankSystem.csproj|d:\\csharp\\banksystem\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0D7FEB-F31A-4F72-B943-EC4AA153D8F2}|BankSystem.csproj|solutionrelative:currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0D7FEB-F31A-4F72-B943-EC4AA153D8F2}|BankSystem.csproj|d:\\csharp\\banksystem\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0D7FEB-F31A-4F72-B943-EC4AA153D8F2}|BankSystem.csproj|solutionrelative:savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0D7FEB-F31A-4F72-B943-EC4AA153D8F2}|BankSystem.csproj|d:\\csharp\\banksystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0D7FEB-F31A-4F72-B943-EC4AA153D8F2}|BankSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0D7FEB-F31A-4F72-B943-EC4AA153D8F2}|BankSystem.csproj|d:\\csharp\\banksystem\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0D7FEB-F31A-4F72-B943-EC4AA153D8F2}|BankSystem.csproj|solutionrelative:account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CurrentAccount.cs",
+              "DocumentMoniker": "D:\\CSharp\\BankSystem\\CurrentAccount.cs",
+              "RelativeDocumentMoniker": "CurrentAccount.cs",
+              "ToolTip": "D:\\CSharp\\BankSystem\\CurrentAccount.cs",
+              "RelativeToolTip": "CurrentAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T13:01:13.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SavingAccount.cs",
+              "DocumentMoniker": "D:\\CSharp\\BankSystem\\SavingAccount.cs",
+              "RelativeDocumentMoniker": "SavingAccount.cs",
+              "ToolTip": "D:\\CSharp\\BankSystem\\SavingAccount.cs",
+              "RelativeToolTip": "SavingAccount.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T13:00:50.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\CSharp\\BankSystem\\Account.cs",
+              "RelativeDocumentMoniker": "Account.cs",
+              "ToolTip": "D:\\CSharp\\BankSystem\\Account.cs",
+              "RelativeToolTip": "Account.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwCUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T12:59:53.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharp\\BankSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CSharp\\BankSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwDQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T12:59:25.29Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
